@@ -1,0 +1,495 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"columna1"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"html",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"ma",
+				"marca"
+			],
+			[
+				"tex",
+				"texto"
+			],
+			[
+				"par",
+				"parametro1"
+			],
+			[
+				"bo",
+				"box1"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"pa",
+				"pavel"
+			],
+			[
+				"M",
+				"META	Tag"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"colo",
+				"background-color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"image",
+				"background-image"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"a",
+				"after"
+			],
+			[
+				"p",
+				"panel"
+			],
+			[
+				"ca",
+				"cambio-color"
+			],
+			[
+				"con",
+				"contenido"
+			],
+			[
+				"mueveArr",
+				"mueveArriba"
+			],
+			[
+				"tra",
+				"translateY"
+			],
+			[
+				"web",
+				"webkit-backface-visibility"
+			],
+			[
+				"e",
+				"e23a6e"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"A",
+				"AD244F"
+			],
+			[
+				"border-c",
+				"border-bottom-color"
+			],
+			[
+				"men",
+				"menu-inferior"
+			],
+			[
+				"border-b",
+				"border-bottom-color"
+			],
+			[
+				"c",
+				"checked"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"LI",
+				"link	Tag"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"d",
+				"div	Tag"
+			],
+			[
+				"eas",
+				"ease-in-out"
+			],
+			[
+				"rota",
+				"rotateX"
+			],
+			[
+				"tran",
+				"translate"
+			],
+			[
+				"bor",
+				"border-spacing"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"tx",
+				"text-transform"
+			],
+			[
+				"m",
+				"meta	Tag"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"no",
+				"decimal-leading-zero"
+			],
+			[
+				"P",
+				"PÁGINA"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"cont",
+				"Package Control: Install Package"
+			],
+			[
+				"CONTR",
+				"Package Control: Install Package"
+			],
+			[
+				"cin",
+				"Package Control: Install Package"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/maicky/GitHub/repositorio/EjemploGit/Ejemplo1.html",
+		"/Users/maicky/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Video/Estilos.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/LaMuerte/TrabajoFinal.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Video/Estrucutura básica de un HTML5.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Video/Estilos.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Responsive/Responsive",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/nube.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/sol.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio/index3.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio/index7.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio Animación/bubbles.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/piso.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/luna.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/Estilos.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/cielo.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Animacion en css3/AnimacionCSS3.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio Animación/bubbles.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio Animación/meow.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Ejercicio Animación/meow.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Nubes.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/cielo.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/piso.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/cometa.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/arcoiris.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/arbol.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/Evaluación.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/AnimaciónConImágenes.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Evaluacion2Parcial/Contenedor.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/AnimacionCSS3.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/cielo.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transformacion_3D.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transformacion_3D.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transiciones.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transiciones2.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transformacion_2D.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/tablas.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Transformacion_2D.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/tablas.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Imagenes/Aprendiendo con imagenes.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Examen /Examen.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Video/Header.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Examen /Cabeza.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/_Video/Centro.css",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Examen /Todo.css",
+		"/Users/maicky/Downloads/Miguel Angel/Examen.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/Tarea_2/Tarea2.html",
+		"/Users/maicky/Desktop/CLASES DE MULTIMEDIA DIGITAL/DISEÑO WEB/pedeefes.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	\n",
+			"Cabeza",
+			"DCFFED"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true
+}
