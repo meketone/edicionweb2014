@@ -84,7 +84,7 @@ header .menu .item a:hover {
 	color: red;
 }
 
-.cleafix {
+.clearfix {
 	clear: both;
 }
 
@@ -148,17 +148,86 @@ button.choose{
 	font-size: 45px;
 	font-weight:400;
 	width: 300px;
-	padding-top: 140px; 
+	padding-top: 185px; 
 }
 
 .intro .text{
 	float: right;
 	width: 500px;
-	color: #b0bbc0;
+	color: #b7b7b7;
 	font-size: 16px;
 	padding-top: 100px;
 	line-height: 30px
 }
 
+.intro .text p {
+	margin-bottom: 0px;
+}
+
+.division {
+	border-top: 1px solid #f1f1f1;
+	margin: 100px 0px;
+
+}
+
+.work h3 {
+	font-size: 30px;
+	text-align: center;
+	margin: 0px;
+
+}
+
+.work .separador {
+	text-align: center;
+	margin: 20px 0px;
+}
+
+.work .subtitles {
+	text-align: center;
+	color: #b7b7b7;
+	font-weight: 300;
+	margin-bottom: 88px;
+}
+
+.work .work-container { 
+	margin:32px 0;
+}
 
 
+.work .work-wrap{
+
+	width: 285px;	
+	float: left;
+	margin-right: 82px;
+}
+
+.work .work-wrap:last-child{
+	margin-right: 0px;
+}
+
+.work h4{
+	font-size: 18px;
+
+}
+
+.work p {
+	font-size: 16px;
+	font-weight: 300;
+	color:#b7b7b7;
+}
+
+.work { 
+margin-bottom: 100px;
+}
+
+/*SLIDER*/
+
+.slider {
+ padding: 100px 0;
+ background: #faf9f9;
+}
+
+.slider img.thumb{
+
+	float:left;
+}
