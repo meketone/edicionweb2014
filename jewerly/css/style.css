@@ -454,5 +454,101 @@ margin-bottom: 60px;
 .comments .comment-wrap .comment p{
 	color: #b7b7b7;
 	font-size: 16px;
-	font-weight: 300;
+	font-weight: 300;}
+
+
+.blog {
+	padding-top: 100px;
 }
+.blog .thumb
+{
+display: block;
+float: right;
+width: 256px;
+}
+
+.blog .title {
+	width: 300px;
+	margin-right: 40px; 
+	float: left;
+
+}
+
+.blog .title h3{
+
+	font-size: 48px;
+	font-weight: bold;
+	color: #464646;
+	margin-bottom: 75px;
+}
+
+.blog-description {
+
+	padding-top: 40px;
+	margin-bottom: 95px;
+}
+
+.blog-description p{
+	display: inline-block;
+	width: 480px;
+	font-size: 16px;
+	color: #b7b7b7;
+	font-weight: 300;
+	line-height: 30px;
+}
+
+.blog-description p:last-child{
+	margin-left: 55px;
+	
+}
+
+footer{
+	background-color: #141414;
+	color: #474747;
+	font-weight: 300;
+	padding-top:65px;
+	font-size: 16px;
+	padding-bottom: 50px;
+}
+
+footer .menu-footer{
+	float: left;
+
+}
+ 
+
+footer h3{
+	color: white;
+	margin: 0;
+	margin-bottom: 60px;
+}
+
+footer ul{
+	float: left;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	font-weight: 500;
+}
+
+footer ul:last-child {
+	margin-left: 50px; 
+}
+
+footer ul li{
+	line-height: 35px;
+}
+
+footer .other-footer{
+ 	float: right;
+ 	text-align: right;
+ }
+
+ footer .redes{
+ 	margin-bottom:60px; 
+ }
+
+ footer .other-footer a{
+ 	color:#6d6d6d;
+ 	font-size: 20px;
+ 	 }
