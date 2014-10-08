@@ -294,3 +294,165 @@ margin-bottom: 60px;
 .slider .media a:hover{
 	background-color: #c70204;
 }
+
+.choose{
+
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
+
+.choose h3 {
+	width: 280px;
+	font-size: 48px;
+	font-weight: bold;
+	float: left;
+	color: #464646;
+}
+
+.choose h4{ 
+	font-size: 18px;
+	color:#464646;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+
+.choose p {
+	font-size: 16px;
+	color: #b7b7b7;
+	font-weight: 300;
+}
+
+.choose .wrap-choose {
+	width: 612px;
+	float: right;
+}
+
+.choose .container-choose{
+
+	float:left;
+	width: 240px;
+	margin-right: 0px;
+
+}
+
+.choose .container-choose:first-child {
+
+	margin-right: 80px;
+
+}
+
+.ourj .thumb{
+	display: block;
+	float: left;
+	width: 256px;
+
+}
+.ourj .title {
+	width: 300px;
+	margin-left: 40px; 
+
+}
+
+.ourj .title h3{
+
+	font-size: 48px;
+	font-weight: bold;
+	color: #464646;
+	margin-bottom: 75px;
+}
+
+.ourj-description {
+
+	padding-top: 40px;
+	margin-bottom: 95px;
+}
+
+.ourj-description p{
+	display: inline-block;
+	width: 480px;
+	font-size: 16px;
+	color: #b7b7b7;
+	font-weight: 300;
+	line-height: 30px;
+}
+
+.ourj-description p:last-child{
+	margin-left: 55px;
+	
+}
+
+.comments{
+	padding-top: 75px;
+	background-color: #faf9f9;
+}
+
+.comments h3{
+	font-size: 30px;
+	text-align: center;
+	color:#464646;
+	font-weight: bold;
+	margin:0 0 24px 0;
+}
+
+.comments .separador{
+	text-align: center;
+	margin:0 0 24px 0;
+}
+
+.comments .subtitle{
+	width: 395px;
+	margin: 0 auto;
+	font-size: 18px;
+	color:#b7b7b7;
+	text-align: center;
+	font-weight: 300;
+	line-height: 30px;
+	margin-bottom: 75px;
+}
+
+.comments .comment-wrap{
+	width: 31%;
+	float: left;
+	padding-right:20px;
+	position: relative;
+	margin-bottom: 70px;
+
+}
+
+.comments .comment-wrap:last-child{
+	padding-left: 0;
+}
+
+.comments .comment-wrap img{
+	position: absolute;
+}
+
+.comments .comment-wrap .comment{
+	padding-left: 60px;
+}
+
+
+.comments .comment-wrap .comment h4{
+	margin: 0;
+	padding: 0;
+	font-size: 18px;
+	color: #464646;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.comments .comment-wrap .comment .subtitle{
+	font-size:14px;
+	width: auto;
+	text-align: left;
+	color:#b7b7b7;
+	margin: 0;
+
+}
+
+.comments .comment-wrap .comment p{
+	color: #b7b7b7;
+	font-size: 16px;
+	font-weight: 300;
+}
