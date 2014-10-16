@@ -1,0 +1,402 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,800,700,600);
+
+
+body{
+	margin: 0;
+	border: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.clearfix {
+	clear: both;
+}
+
+header {
+	height: 728px;
+	margin-top: 60px;
+	background-image: url(../img/MyFolio.jpg);
+	background-position: 0 60px;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+header .header-menu .lista {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+}
+
+header .header-menu .lista .item{
+	display: inline-table;
+	margin-left:  10px;
+	text-decoration: none;
+	margin-top: -15px;
+}
+
+
+header .completo {
+	width: 100%;
+	margin: 0 auto;
+background-color: #02918c;
+	height: 60px;
+	background-size: cover;
+	margin-top:-60px; 
+}
+
+header .header-menu .lista a{
+	color: white;
+	text-decoration: none;
+}
+
+header .header-menu .lista h1{
+	font-size: 27px;
+	font-weight: 800;
+}
+
+header .header-menu .lista h2{
+	font-size: 27px;
+	margin-left: -15px;
+	color: #cfc91d;
+	font-weight: 800;
+}
+
+header .logo{
+	float: left;
+	margin-top: auto;
+	margin-left:50px; 
+
+}
+
+header .wrap-menu {
+	float: right;
+}
+
+header .menu {
+	margin: 0 auto;
+	padding: 0 auto;
+	list-style: none;
+}
+
+header .menu .boton{
+	display: inline-block;
+	margin-right:50px;
+	margin-top: 26px; 
+	font-size: 12px;
+	font-weight: 700;
+}
+
+header .menu .boton a { 
+color: white;
+text-decoration: none;}
+
+
+header .header-container{
+	margin: 0 auto;
+	padding: 0 auto;
+	text-align: center;
+}
+
+header .header-footer{
+margin: 0 auto;
+	padding: 0 auto;
+	text-align: center;
+	margin-top: 55px;
+}
+
+header .texto {
+	color:white;
+	margin-top: 192px;
+}
+
+
+
+header .texto #p{
+	font-size: 30px;
+}
+
+header .texto #pp{
+	font-size: 68px;
+	margin-top: -22px;
+	letter-spacing: 30px;
+	font-weight: 800;
+
+}
+
+header .texto #ppp{
+	font-size: 18px;
+	margin-top: -76px;
+}
+
+header .header-container img{
+	margin-top: 18px;
+}
+
+header .header-footer .more{
+	background: #cfc91d;
+	font-family: 'Myriad Pro', sans-serif;
+	font-size: 14px;
+	font-weight: 800;
+	border: 2px solid #cfc91d;
+	height: 50px;
+	width: 200px;
+	letter-spacing: 6px;
+}
+
+header .header-footer .more:hover {
+	border-color: #bbb61b;
+	background:  #bbb61b;
+}
+
+.container {
+	width: 1024px;
+	margin: 0 auto
+}
+.about{
+	margin-bottom: 100px;
+}
+
+.about .heading {
+	text-align: center;
+	margin-top: 95px;
+}
+
+.about .heading h3{
+	font-size: 46px; 
+	color: #02918c;
+	font-weight: 700;
+}
+
+.about .heading h4{
+	margin-top: -30px;
+	font-size: 16px;
+	font-weight: 300;
+	color: #7e8287;
+}
+
+.about .heading p{
+	font-size: 16px;
+	color: #7e8287;
+	font-weight: 400;
+}
+
+.about .heading p b {
+	font-size: 23px;
+	font-weight: 700;
+}
+
+
+.about .group {
+	float: left;
+	text-align: center;
+	width: 288px;
+	height: 240px;
+	margin-left: -34px;
+	display: inline-block;
+	border-left: 1px solid  #d9dbdb;
+	margin-top: 85px;
+}
+
+.about .group:first-child{
+	border-left: none;
+}
+
+.about .group .cont{
+	margin: 40px 0px 0px 50px;
+	width: 163px;
+}
+.about .group .cont h4{
+	font-weight: 700;
+	font-size: 16px;
+	color: #7e8287;
+}
+.about .group .cont p {
+	font-weight: 400;
+	color: #7e8287;
+	font-size: 13px;
+}
+
+.image{
+	height: 735px;
+	width: 100%;
+	background-image: url(../img/mano.jpg);
+	
+	background-size: cover;
+
+}
+
+.service{
+	width: 500px;
+margin-left: -90px;
+}
+
+.service .tittle{
+	float:left;
+	margin-bottom: -50px;
+	margin-top: -1px;
+
+}
+
+.service .tittle h3 {
+	font-size: 46px; 
+	color: #02918c;
+	font-weight: 700;
+}
+
+.service .tittle h4{
+	margin-top: -30px;
+	font-size: 16px;
+	font-weight: 300;
+	color: #7e8287;
+
+}
+
+.service .tittle p{
+	font-size: 17px;
+	color: #7e8287;
+	line-height: 35px;
+}
+
+
+.service .group {
+	float: left;
+	text-align: left;
+	width: 191px;
+	height: 144px;
+	display: inline-block;
+	margin-top: 75px;
+}
+
+.service .group:last-child{
+	float:right;
+	margin-right: 20px;
+}
+
+
+
+.service .group h4{
+	font-weight: 700;
+	font-size: 16px;
+	color: #7e8287;
+}
+.service .group p {
+	font-weight: 400;
+	color: #7e8287;
+	font-size: 13px;
+}
+
+.work .heading {
+	text-align: center;
+	margin-top: 95px;
+	margin-bottom: 85px;
+}
+
+.work .heading h3{
+	font-size: 46px; 
+	color: #02918c;
+	font-weight: 700;
+}
+
+.work .heading h4{
+	margin-top: -30px;
+	font-size: 16px;
+	font-weight: 300;
+	color: #7e8287;
+}
+
+.work .heading p{
+	font-size: 16px;
+	color: #7e8287;
+	font-weight: 400;
+}
+
+.group{ 
+	display: block;
+	float: left;
+	width: 25%;
+	height: 238px;}
+
+.contact .heading{
+	text-align: center;
+	margin-top: 661px;
+	margin-bottom:75px; 
+}
+
+.contact .heading h3{
+	font-size: 46px; 
+	color: #02918c;
+	font-weight: 700;
+}
+
+.contact .heading h4{
+	margin-top: -30px;
+	font-size: 16px;
+	font-weight: 300;
+	color: #7e8287;
+}
+
+.contact .heading p{
+	font-size: 16px;
+	color: #7e8287;
+	font-weight: 400;
+}
+
+.footer{
+	background-color: black;
+	color:#898989;
+	width: 100%;
+	font-size:16px;
+	margin-top: 65px;
+	text-align: center;
+	height: 100%;
+	padding-top: 1px;
+	}
+.footer .foot .data{
+	margin-top: 65px;
+}
+
+.footer .foot .data1 p{
+	margin-top: 65px;
+}
+
+
+.foot .linea{
+width: 645px;
+border-bottom: 1px solid #898989;
+margin-left: 200px;
+}
+
+.foot .linea2{
+width: 920px;
+border-bottom: 1px solid #898989;
+margin-left: 57px;
+}
+
+.foot .linea3{
+width: 920px;
+border-bottom: 1px solid #898989;
+margin-left: 57px;
+margin-top: 90px;
+}
+
+.foot .more{
+	background: #cfc91d;
+	font-family: 'Myriad Pro', sans-serif;
+	font-size: 14px;
+	font-weight: 800;
+	border: 2px solid #cfc91d;
+	height: 50px;
+	width: 200px;
+	letter-spacing: 6px;
+	margin-top: 70px;
+	margin-bottom: 100px;
+}
+.foot .e p {
+	font-size: 12px;
+}
+
+.foot .more:hover {
+	border-color: #bbb61b;
+	background:  #bbb61b;}
+
